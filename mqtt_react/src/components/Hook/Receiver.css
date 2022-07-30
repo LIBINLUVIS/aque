@@ -1,0 +1,41 @@
+.Receiver-data{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+   
+}
+.other-params{
+   display: flex;
+   flex-direction: column;
+   margin-left: 108px;
+}
+.outer-box{
+    border: 2px solid grey;
+    margin-top: 20px;
+    background-color: #7ca2e0;
+}
+.tds-card{
+    width: 300px;
+    height: 150px;
+    overflow-y: scroll;
+    display: flex;
+    justify-content: center;
+}
+.getdatabtn{
+    background-color: #15b612;
+    border: none;
+    height: 50px;
+    width: 100px;
+    border-radius: 50px;
+    cursor: pointer;
+}
+.logoutbtn{
+    background-color: red;
+    border:none;
+    height: 50px;
+    width: 100px;
+    border-radius: 50px;
+    cursor: pointer;
+}
